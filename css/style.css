@@ -28,7 +28,10 @@ a:hover {text-decoration:none;}
 
 .col-1, .col-2 {float:left;}
 
-.wrapper {width:100%; overflow:hidden;}
+.wrapper {
+    width: 115%;
+    overflow: hidden;
+}
 .extra-wrap {overflow:hidden;}
  
 p {margin-bottom:18px;}
